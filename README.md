@@ -20,7 +20,7 @@ RAG-powered compliance checking with similarity search against government regula
 
 
 ## Demonstration:
-Click the image watch demo video.
+Click the image to watch demo video.
 ### [![Watch the video](public/thumbnail.png)](https://youtu.be/nh3pHt71j8Q)
 
 ---
